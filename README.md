@@ -3,14 +3,13 @@
 ## 🚀 Projeto
 Um identificador de imagens de Pokemon! Tire uma foto e descubra mais sobre seu Pokemon preferido!
 
-
 ## 🛠️ Tecnologias
 - [React Native](https://reactnative.dev)
 - [Expo](https://expo.dev)
 
-
 ## 🌎 Desempenho pelo mundo
 Publicado na Google Play Store em janeiro de 2019, foi mantido até junho de 2022. Nesse período, o app teve mais de **100 mil downloads** ao redor do mundo, sendo usado para identificar mais de **460 mil fotos!**
+</br>[UPDATE]: Removido da Google Play, o app ainda pode ser baixado por [aqui!](https://pokedex-ar.br.aptoide.com/app)
 
 <div align="center">
   <img alt="google play resume" title="google play resume" src="assets/googlePlay/Google Play Store - 20220702-232149.jpg" width="35%" />
@@ -20,7 +19,6 @@ Publicado na Google Play Store em janeiro de 2019, foi mantido até junho de 202
   <img alt="google play downloads" title="google play downloads" src="assets/googlePlay/Mapa - 2021-01.png" />
 </div>
 * Mapa de downloads do app. Atualizado em janeiro de 2021
-
 
 ## 📱 O App
 <div align="center">
@@ -34,7 +32,6 @@ Publicado na Google Play Store em janeiro de 2019, foi mantido até junho de 202
   <img alt="2 - details" title="2 - details" src="assets/googlePlay/2 - details.png" width="23%" />
   <img alt="3 - details" title="3 - details" src="assets/googlePlay/3 - details.png" width="23%" />
 </div>
-
 
 ## 🗂️ Galeria
 Uma prévia de alguns Pokemons encontrados pelos treinadores ao redor do mundo!
@@ -72,3 +69,6 @@ Uma prévia de alguns Pokemons encontrados pelos treinadores ao redor do mundo!
   <img alt="envio19" title="envio19" src="assets/envios/628ad3c8-67cd-4a97-b477-7b1bddf4a835.jpg" width="23%" />
   <img alt="envio20" title="envio20" src="assets/envios/b24dd046-b210-45f4-b64a-d75c1220ecb6.jpg" width="23%" />
 </div>
+
+## ⭐ Like, Subscribe, Follow!
+Curtiu o projeto? Marque esse repositório com uma Estrela ⭐!
