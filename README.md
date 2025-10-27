@@ -9,7 +9,8 @@ Um identificador de imagens de Pokemon! Tire uma foto e descubra mais sobre seu 
 
 ## 🌎 Desempenho pelo mundo
 Publicado na Google Play Store em janeiro de 2019, foi mantido até junho de 2022. Nesse período, o app teve mais de **100 mil downloads** ao redor do mundo, sendo usado para identificar mais de **460 mil fotos!**
-</br>[UPDATE]: Removido da Google Play, o app ainda pode ser baixado por [aqui!](https://pokedex-ar.br.aptoide.com/app)
+</br></br>[UPDATE]: Removido da Google Play, o app ainda pode ser baixado por [aqui!](https://pokedex-ar.br.aptoide.com/app)
+</br></br>[UPDATE]: Nova plataforma! Confira a versão web [aqui!](https://github.com/Alessandro1918/pokedex-ar-web)
 
 <div align="center">
   <img alt="google play resume" title="google play resume" src="assets/googlePlay/Google Play Store - 20220702-232149.jpg" width="35%" />
